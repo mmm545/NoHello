@@ -5,4 +5,5 @@ branches:
 projects:
   NoHello:
     path: ""
+    icon: icon.png
 ...
