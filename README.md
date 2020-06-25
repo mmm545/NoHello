@@ -1,7 +1,7 @@
 # NoHello
-A ~~useless~~ NoHello plugin for Pocketmine-MP!
+A ~~useless~~ No Hello plugin for Pocketmine-MP!
 ### Usage
-Download the .phar file and drop it into your server plugins folder\
-Congrats, when someone says hello/hi it will reply "Don't just say hello/hi in the chat"
+Download the .phar file and drop it into your server plugins folder and restart your server\
+Congrats, when someone says Hello/Hi it will reply "Don't Just Say Hello/Hi in Chat (Player)"
 ### TODO
 - Add config
